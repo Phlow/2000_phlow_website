@@ -1,0 +1,47 @@
+p,a,h1,h2,h3,h4,h5,td   { font-family:Arial,sans-serif; }
+p  {
+	font-size:8pt;
+	line-height:9pt;
+	text-align:justify;
+	color : #7F7F7F;
+	font-style : normal;
+}
+a {
+	font-size: 8pt;
+	color : #BFBFBF;
+	line-height : 9pt;
+}
+td {
+	font-size: 8pt;
+	text-align: center;
+	color : #7F7F7F;
+}
+h1 {
+	font-size:20pt;
+	color: #9F9F9F;
+	margin-bottom: -10px;
+}
+h2 {
+	font-size:24pt;
+	color: #1F1F1F;
+	margin-bottom: -65px;
+	margin-left: 0px;
+}
+h3 {
+	font-size:13pt;
+	color: #9F9F9F;
+	letter-spacing : 3pt;
+	margin-bottom: -7px;
+}
+h4 {
+	font-size:12pt;
+	color: #1F1F1F;
+	letter-spacing : 3pt;
+	margin-bottom : -43px;
+	margin-left: -4px;
+}
+h5 {
+	font-size:8pt;
+	line-height: 9pt;
+	color:#FFFF63;
+}

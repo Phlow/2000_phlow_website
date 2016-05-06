@@ -1,0 +1,76 @@
+/* CSS-Datei für den Workshop CSS */
+/* Diese Datei gilt ab dem Workshop als Definition für die weiteren Seiten */
+a,p,h1,h2,h3,ul,ol,li,div,b,i,td,th,p,ul,ol,li,div,th,td,address,b,i,caption { font-family:Arial,sans-serif; }
+
+th {
+	font-size:12pt;
+	line-height:12pt;
+	text-align:left;
+	color : Maroon;
+	font-style : normal;
+	white-space : nowrap;
+}
+td {
+	font-size: 8pt;
+	text-align: justify;
+	color : #CE0000;
+	line-height : 9pt;
+	vertical-align: top;
+	white-space : nowrap;
+}
+h1 {
+	font-size:13pt;
+	color: #CE0000;
+	letter-spacing : 3pt;
+	margin-bottom: -7px;
+	white-space : nowrap;
+}
+h2 {
+	font-size:12pt;
+	color: #500000;
+	letter-spacing : 3pt;
+	margin-bottom : -43px;
+	margin-left: -4px;
+	white-space : nowrap;
+}
+h3 {
+	font-family:Arial,sans-serif;
+	font-size: 8pt;
+	line-height: 10pt;
+	text-align: justify;
+	color : #CE0000;
+	white-space : nowrap;
+}
+h4 {
+	font-family:Arial,sans-serif;
+	font-size:14pt;
+	line-height:12pt;
+	text-align:left;
+	color : Maroon;
+	white-space : nowrap;
+}
+h5 {
+	font-family:Arial,sans-serif;
+	font-size: 8pt;
+	line-height: 10pt;
+	text-align: justify;
+	color: #FF9C00;
+	white-space : nowrap;
+}
+p  {
+	font-size:8pt;
+	line-height:9pt;
+	text-align:justify;
+	color : #CE0000;
+	font-style : normal;
+	white-space: nowrap;
+}
+a {
+	font-size: 8pt;
+	color : Red;
+	line-height : 9pt;
+	white-space : nowrap;
+}
+
+#marke {font-size:11pt;line-height:12pt;font-style:bold;background-color:#CCFFCC;}
+span {font-size:8pt;line-height:8pt;font-style:normal;background-color:#FF9C00; padding:3px}

@@ -1,0 +1,36 @@
+<head>
+<style type="text/css">
+a,p,h1,h2,h3,h4,h5,th,td {font-family:"Courier New","Arial","Times New Roman";}
+
+h1{font-size:"24pt";line-height:"0";color:#ffffff;font-style:"normal"}
+h2{font-size:"18pt";line-height:"0";color:#ffffff;font-style:"normal"}
+h3{
+	font-size:"12pt";
+	line-height:"0";
+	color: #00CE00;
+	font-style:"bold"
+}
+h4{
+	font-size:"12pt";
+	line-height:"0";
+	color: #31CE31;
+	font-style:"normal"
+}
+th{
+	font-size:"12pt";
+	line-height:"0";
+	color: #00CE00;
+	font-style:"bold"
+}
+td{
+	font-size:"12pt";
+	line-height:"0";
+	color: #31CE31;
+	font-style:"normal"
+}
+h5{font-size:"8pt";line-height:"0";color:#ffffff;font-style:"normal"}
+</style>
+</head>
+<body>
+</body>
+</html>

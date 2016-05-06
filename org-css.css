@@ -1,0 +1,54 @@
+/* CSS-Datei für den Workshop CSS */
+/* Diese Datei gilt ab dem Workshop als Definition für die weiteren Seiten */
+a,p,h1,h2,h3,ul,ol,li,div,b,i,td,th,caption     { font-family:Arial,sans-serif; }
+p,ul,ol,li,div,th,td,address,b,i { font-size:10pt;line-height:8pt; }
+
+th {
+	font-size:12pt;
+	line-height:12pt;
+	text-align:center;
+	vertical-align: top;
+	color : #008000;
+	font-style : normal;
+}
+td {
+	font-size: 8pt;
+	text-align:justify;
+	vertical-align: top;
+	color : 00CE00;
+	line-height : 8pt;
+}
+p  {
+	font-size:8pt;
+	line-height:8pt;
+	text-align: justify;
+	color : #63FF63;
+	font-style : normal;
+}
+a {
+	font-size: 8pt;
+	color : green;
+	line-height : 8pt;
+}
+h1 {
+	font-size:16pt;
+	color: #00CE00;
+	letter-spacing : 3pt;
+	margin-bottom: -7px;
+}
+h2 {
+	font-size:15pt;
+	color: #005000;
+	letter-spacing : 3pt;
+	margin-bottom : -46px;
+	margin-left: -4px;
+}
+h5 {
+	font-size: 8pt;
+	text-align:justify;
+	vertical-align: top;
+	color : #63FF63;
+	line-height : 8pt;
+}
+#marke {font-size:11pt;line-height:12pt;font-style:bold;background-color:#CCFFCC;}
+span {font-size:12pt;line-height:12pt;font-style:bold;background-color:orange;font-style:bold; padding:3px}

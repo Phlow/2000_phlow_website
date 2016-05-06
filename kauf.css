@@ -1,0 +1,73 @@
+/* CSS-Datei für den Workshop CSS */
+/* Diese Datei gilt ab dem Workshop als Definition für die weiteren Seiten */
+a,p,h1,h2,h3,ul,ol,li,div,b,i,td,th     { font-family:Arial,sans-serif; }
+p,ul,ol,li,div,th,td,address,b,i,caption { font-family:Arial,sans-serif; }
+
+th {
+	font-size:12pt;
+	line-height:12pt;
+	text-align:left;
+	color : Maroon;
+	font-style : normal;
+}
+td {
+	font-size: 8pt;
+	text-align: left;
+	color : #CE0000;
+	font-weight: bold;
+}
+
+h1 {
+	font-size:13pt;
+	color: #CE0000;
+	letter-spacing : 3pt;
+	margin-bottom: -7px;
+}
+h2 {
+	font-size:12pt;
+	color: #500000;
+	letter-spacing : 3pt;
+	margin-bottom : -43px;
+	margin-left: -4px;
+}
+h3 {
+	font-family:Arial,sans-serif;
+	font-size: 8pt;
+	line-height: 10pt;
+	text-align: justify;
+	color : #CE0000;
+}
+h4 {
+	font-family:Arial,sans-serif;
+	font-size:14pt;
+	line-height:12pt;
+	text-align:left;
+	color : Maroon;
+}
+h5 {
+	font-family:Arial,sans-serif;
+	font-size: 8pt;
+	line-height: 10pt;
+	text-align: justify;
+	color: #FF9C00;
+	font-style: normal;
+}
+p  {
+	font-size:8pt;
+	line-height:9pt;
+	text-align:justify;
+	color : #CE0000;
+	font-style : normal;
+}
+a {
+	font-size: 8pt;
+	color : Red;
+	line-height : 9pt;
+}
+caption { 
+	font-size:10pt;
+	line-height:10pt;
+	font-style:normal;
+	font-weight: bold;
+	color: #FF9C00;
+}
